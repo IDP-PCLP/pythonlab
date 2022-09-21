@@ -20,12 +20,21 @@ PERKOVIC, Ljubomir. Introdução à computação usando Python: um foco no desen
 ## Links para playlists e canais do YouTube:
 
 Curso de Python 3 - Mundo 1: Fundamentos - YouTube
+
 https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 
+
 Curso Python para Machine Learning e Análise de Dados - YouTube
+
 https://youtube.com/playlist?list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ- 
+
 Curso de Python do ZERO AO DS - YouTube
+
 https://youtube.com/playlist?list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG 
+
 Python para iniciantes - YouTube
+
 https://youtube.com/playlist?list=PLnNURxKyyLIKX73U7hISjIY7T5KiNNLu_
+
 Universo Discreto
+
 https://www.youtube.com/watch?v=6H0sup1qSsY
